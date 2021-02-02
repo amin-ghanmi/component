@@ -1,0 +1,20 @@
+.App{
+  display: grid;
+  justify-content: center;
+  margin-top: 4%;
+
+
+}
+.pic{
+  width: 400px;
+height: 400px;
+border: black  solid 1px ;
+}
+.title{
+
+color: red;
+}
+.after{
+  color :black ;
+  
+}
